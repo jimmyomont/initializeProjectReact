@@ -1,0 +1,25 @@
+{
+  "name": "init-project",
+  "version": "1.0.0",
+  "description": "npm init -y \r parcel npm install --save-dev parcel\r On modifie les scripts\r ```\r \"source\": \"src/index.html\",\r \"scripts\": {\r   \"start\": \"parcel\",\r   \"build\": \"parcel build\"\r },\r ```\r copier le fichier init-project.mjs \r installer node npm i node\r lancer la commande suici du nom de votre projet (sans espaces)",
+  "main": "index.js",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^20.2.0",
+    "node-js": "^1.0.0",
+    "parcel": "^2.9.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.0",
+    "process": "^0.11.10"
+  }
+}
