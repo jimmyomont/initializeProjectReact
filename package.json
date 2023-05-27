@@ -12,8 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node": "^20.2.0",
-    "node-js": "^1.0.0",
     "parcel": "^2.9.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
