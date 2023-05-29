@@ -16,9 +16,9 @@ src/
 │  ├─ Main/
 │  │  ├─ index.js
 │  │  └─ style.scss 
-│  ├─ Footer/
-│  │  ├─ index.js
-│  │  └─ style.scss 
+│  └─ Footer/
+│     ├─ index.js
+│     └─ style.scss 
 └.gitignore
 ```
 
