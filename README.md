@@ -41,4 +41,8 @@ les fichiers sont pré-remplis
 
 le `Header`, `Main` et le `Footer` devraient apparaître dans le navigateur
 
-A suivre une deuxième commande pour ajouter seulement des dossiers et fuchiers près nommés dans App avec un index.js et un style.scss
+### Complément de projet :
+
+Ajouter autant de dossiers que voulu à src/components/ avec fichier index.js et Style.scss près-remplis
+
+``node create-components.mjs NomDuNouveauDossier NomDuNouveauDossier2 ``
