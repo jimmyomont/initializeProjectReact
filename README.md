@@ -4,8 +4,8 @@
 ## initialisation avec comme dossiers et fichiers :
 ```txt
 src/
-|index.html
-|index.js
+├index.html
+├index.js
 ├─ components/
 │  ├─ App/
 │  │  ├─ index.js
@@ -19,7 +19,7 @@ src/
 │  ├─ Footer/
 │  │  ├─ index.js
 │  │  └─ style.scss 
-└─ .gitignore
+└.gitignore
 ```
 
 
