@@ -27206,7 +27206,13 @@ var _styleScss = require("./style.scss");
 function Header() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "header",
-        children: "Header"
+        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+            children: "Ceci est le Header de mon projet : test\uD83E\uDD73"
+        }, void 0, false, {
+            fileName: "src/components/Header/index.js",
+            lineNumber: 7,
+            columnNumber: 9
+        }, this)
     }, void 0, false, {
         fileName: "src/components/Header/index.js",
         lineNumber: 6,
@@ -27405,7 +27411,13 @@ var _styleScss = require("./style.scss");
 function Main() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "main",
-        children: "Main"
+        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
+            children: "Le main du projet \uD83D\uDCAA"
+        }, void 0, false, {
+            fileName: "src/components/Main/index.js",
+            lineNumber: 7,
+            columnNumber: 13
+        }, this)
     }, void 0, false, {
         fileName: "src/components/Main/index.js",
         lineNumber: 6,
@@ -27436,7 +27448,13 @@ var _styleScss = require("./style.scss");
 function Footer() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "footer",
-        children: "Footer"
+        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
+            children: "et le footer ✌️.. maintenat tu peux supprimer ce contenu et travailler dur en t'amusant \uD83D\uDE07!!!"
+        }, void 0, false, {
+            fileName: "src/components/Footer/index.js",
+            lineNumber: 7,
+            columnNumber: 13
+        }, this)
     }, void 0, false, {
         fileName: "src/components/Footer/index.js",
         lineNumber: 6,

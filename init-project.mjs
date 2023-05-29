@@ -76,7 +76,7 @@ import './style.scss';
     function Header() {
         return (
         <div className="header">
-        Header
+        <h1>Ceci est le Header de ton projet : ${projetName}🥳</h1>
         </div>
         );
     }
@@ -96,7 +96,7 @@ import './style.scss';
     function Main() {
         return (
             <div className="main">
-            Main
+            <h2>Le main du projet 💪</h2>
             </div>
             );
         }
@@ -116,7 +116,7 @@ import './style.scss';
     function Footer() {
         return (
         <div className="footer">
-            Footer
+            <h3>et le footer ✌️.. maintenat tu peux supprimer ce contenu et travailler dur en t'amusant 😇!!!</h3>
         </div>
         );
     }
