@@ -2,7 +2,7 @@
 
 
 ## initialisation avec comme dossiers et fichiers :
-
+```txt
 src/
 |index.html
 |index.js
@@ -20,6 +20,7 @@ src/
 │  │  ├─ index.js
 │  │  └─ style.scss 
 └─ .gitignore
+```
 
 
 les fichiers sont pré-remplis 
