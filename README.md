@@ -3,52 +3,38 @@
 
 ## initialisation avec comme dossiers et fichiers :
 
-``src``
-
-|--index.html
-
-|--index.js
-
-|----``components``
-
-|--------``App``
-
-|-------------index.js
-
-|------------style.scss
-
-|--------``Header``
-
-|------------index.js
-
-|------------style.scss
-
-|--------``Main``
-
-|------------index.js
-
-|------------style.scss
-
-|--------``Footer``
-
-|------------index.js
-
-|------------style.scss
+src/
+|index.html
+|index.js
+├─ components/
+│  ├─ App/
+│  │  ├─ index.js
+│  │  └─ style.scss 
+│  ├─ Header/
+│  │  ├─ index.js
+│  │  └─ style.scss 
+│  ├─ Main/
+│  │  ├─ index.js
+│  │  └─ style.scss 
+│  ├─ Footer/
+│  │  ├─ index.js
+│  │  └─ style.scss 
+└─ .gitignore
 
 
 les fichiers sont pré-remplis 
 
-installer parcel :
+### Installer parcel :
 
 ``npm install``
 
-commandes pour initialiser un project réact : 
+### Commandes pour initialiser un project réact : 
 
 ``node init-project.mjs NomDeVotreProjet``
 
-*/le nom de votre projet doit s'écrire sans éspace et sera noté en titre de ``head`` dans l'index.html
+*le nom de votre projet doit s'écrire sans éspaces et sera ajouté au titre de ``head`` dans l'index.html
 
-tester si tout est ok avec : 
+### Tester si tout est ok avec : 
 
 ``npm run start``
 
