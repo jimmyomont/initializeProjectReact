@@ -25,3 +25,4 @@ export default ${componentName};
     fs.writeFileSync(componentPath + '/style.scss', styleContent);
 
 });
+//commande => node create-components.mjs nomDuDossierACreer
