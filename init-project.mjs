@@ -130,4 +130,3 @@ import './style.scss';
 });
 
 
-//commande => node create-components.mjs nomDuDossierACreer
